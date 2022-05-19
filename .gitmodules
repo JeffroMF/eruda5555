@@ -1,3 +1,15 @@
 [submodule "fione"]
 	path = fione
 	url = https://github.com/liriliri/fione.git
+[submodule "eruda"]
+	path = eruda
+	url = ssh://git@github.com/liriliri/eruda-plugin
+[submodule "erudatalabs"]
+	path = erudatalabs
+	url = ssh://git@github.com/erudatalabs/erudatalabs
+[submodule "eruda-memory"]
+	path = eruda-memory
+	url = ssh://git@github.com/liriliri/eruda-memory
+[submodule "eruda-code"]
+	path = eruda-code
+	url = ssh://git@github.com/liriliri/eruda-code
