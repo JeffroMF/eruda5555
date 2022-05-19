@@ -40,3 +40,39 @@
 [submodule "node-ios-device"]
 	path = node-ios-device
 	url = ssh://git@github.com/tidev/node-ios-device
+[submodule "eruda-webpack-plugin"]
+	path = eruda-webpack-plugin
+	url = ssh://git@github.com/huruji/eruda-webpack-plugin
+[submodule "erudait"]
+	path = erudait
+	url = ssh://git@github.com/Erudait/erudait
+[submodule "plugin"]
+	path = plugin
+	url = ssh://git@github.com/liriliri/eruda-plugin
+[submodule "eruda-worker"]
+	path = eruda-worker
+	url = ssh://git@github.com/liriliri/eruda-worker
+[submodule "eruda-loader"]
+	path = eruda-loader
+	url = ssh://git@github.com/Spomni/eruda-loader
+[submodule "eruda-outline-plugin"]
+	path = eruda-outline-plugin
+	url = ssh://git@github.com/pomelo-chuan/eruda-outline-plugin
+[submodule "eruda-timing"]
+	path = eruda-timing
+	url = ssh://git@github.com/liriliri/eruda-timing
+[submodule "Eruda-78"]
+	path = Eruda-78
+	url = ssh://git@github.com/Eruda-78/Eruda-78
+[submodule "yii2-eruda"]
+	path = yii2-eruda
+	url = ssh://git@github.com/huijiewei/yii2-eruda
+[submodule "eruda-features"]
+	path = eruda-features
+	url = ssh://git@github.com/liriliri/eruda-features
+[submodule "svrx-plugin-eruda"]
+	path = svrx-plugin-eruda
+	url = ssh://git@github.com/svrxjs/svrx-plugin-eruda
+[submodule "eruda-app"]
+	path = eruda-app
+	url = ssh://git@github.com/tuzi3040/eruda-app
