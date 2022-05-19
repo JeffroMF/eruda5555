@@ -13,3 +13,27 @@
 [submodule "eruda-code"]
 	path = eruda-code
 	url = ssh://git@github.com/liriliri/eruda-code
+[submodule "eruda-orientation"]
+	path = eruda-orientation
+	url = ssh://git@github.com/liriliri/eruda-orientation
+[submodule "vite-plugin-eruda"]
+	path = vite-plugin-eruda
+	url = ssh://git@github.com/wuxiuran/vite-plugin-eruda
+[submodule "vue-cli-plugin-eruda"]
+	path = vue-cli-plugin-eruda
+	url = ssh://git@github.com/XiongAmao/vue-cli-plugin-eruda
+[submodule "outline-client555"]
+	path = outline-client555
+	url = git@github.com:JeffroMF/outline-client555.git
+[submodule "laverna"]
+	path = laverna
+	url = git@github.com:JeffroMF/laverna.git
+[submodule "eruda-fps"]
+	path = eruda-fps
+	url = ssh://git@github.com/liriliri/eruda-fps
+[submodule "eruda-vue"]
+	path = eruda-vue
+	url = ssh://git@github.com/liriliri/eruda-vue
+[submodule "eruda-publish"]
+	path = eruda-publish
+	url = ssh://git@github.com/twinspapa/eruda-publish
