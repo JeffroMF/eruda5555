@@ -79,3 +79,6 @@
 [submodule "inspect-web"]
 	path = inspect-web
 	url = ssh://git@github.com/ikrong/inspect-web
+[submodule "umi-plugin-eruda"]
+	path = umi-plugin-eruda
+	url = ssh://git@github.com/luoyelusheng/umi-plugin-eruda
