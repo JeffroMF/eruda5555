@@ -76,3 +76,6 @@
 [submodule "eruda-app"]
 	path = eruda-app
 	url = ssh://git@github.com/tuzi3040/eruda-app
+[submodule "inspect-web"]
+	path = inspect-web
+	url = ssh://git@github.com/ikrong/inspect-web
