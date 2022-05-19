@@ -37,3 +37,6 @@
 [submodule "eruda-publish"]
 	path = eruda-publish
 	url = ssh://git@github.com/twinspapa/eruda-publish
+[submodule "node-ios-device"]
+	path = node-ios-device
+	url = ssh://git@github.com/tidev/node-ios-device
